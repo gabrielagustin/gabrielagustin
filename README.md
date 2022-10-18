@@ -1,4 +1,5 @@
 ### Hi there 👋
+For at least 8 years I have been dedicated to the Remote Sensing, specifically to the soil moisture estimation, working in satellite data fusion, image processing, machine learning techniques and data mining using mainly python programming language.
 
 <!--
 **gabrielagustin/gabrielagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
