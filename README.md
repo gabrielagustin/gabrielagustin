@@ -1,6 +1,15 @@
 ### Hi there 👋
 For at least 8 years I have been dedicated to the Remote Sensing, specifically to the soil moisture estimation, working in satellite data fusion, image processing, machine learning techniques and data mining using mainly python programming language.
 
+Hi there 👋
+
+I'm a Remote Sensing Scientist with 8+ years of experience in Earth Observation, hydrology, and water resources.
+
+My work focuses on developing geospatial and AI-based solutions using multi-source satellite data (SMAP, MODIS, Sentinel 1 & 2, GRACE, ERA5) for applications such as soil moisture estimation, evapotranspiration modeling, water resource monitoring, and climate-related analytics.
+
+I enjoy building scalable data pipelines, applying machine learning to geospatial problems, and transforming scientific research into operational solutions using Python and cloud technologies.
+
+
 <!--
 **gabrielagustin/gabrielagustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
